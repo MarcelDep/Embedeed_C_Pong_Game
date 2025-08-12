@@ -26,3 +26,4 @@ The only thing that this library need's to work properly is the initialization o
 
 Also keep in mind that by default ST7735S is in vertical position, however Hagl library doesn't have this screen format - that's why whole programm is written as screen is in horizontal position and both X- and Y-acis are exchanged compare to ST7735S default configuration.
 
+If you want to use diffrent screen to run this game, don't forget to adjust pixel values in all hagl functions - they work properly on ST7735S (128x160 pixels) - on screen with diffrent amount of pixels game wont look as good as it should. 

@@ -18,3 +18,8 @@ I've connected ST7735S and B103 267 to following PIN's:
     - VRY - CN8 PIN 2 A1
     - SW - CN5 PIN 1 D8
 <img width="720" height="695" alt="PIN'y na płytce" src="https://github.com/user-attachments/assets/ca1805b4-aa08-473d-ab77-76a94867bcfa" />
+
+I didn't write hagl files on my own - this is a public library made for drawing on screens. If you want to learn more about this library i recommend checking the following link: https://github.com/tuupola/hagl/tree/master
+
+The only thing that this library need's to work properly is the initialization of a screen. Also take this into account that the newest version of hagl library isn't working with my game, so if you want to play it, you have to download the old version, from my project, or from following ZIP file:
+[hagl.zip](https://github.com/user-attachments/files/21729362/hagl.zip)

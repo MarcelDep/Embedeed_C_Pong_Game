@@ -17,5 +17,4 @@ I've connected ST7735S and B103 267 to following PIN's:
     - VRX - CN8 PIN 1 A0
     - VRY - CN8 PIN 2 A1
     - SW - CN5 PIN 1 D8
- 
 <img width="720" height="695" alt="PIN'y na płytce" src="https://github.com/user-attachments/assets/ca1805b4-aa08-473d-ab77-76a94867bcfa" />

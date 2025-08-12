@@ -23,3 +23,6 @@ I didn't write hagl files on my own - this is a public library made for drawing 
 
 The only thing that this library need's to work properly is the initialization of a screen. Also take this into account that the newest version of hagl library isn't working with my game, so if you want to play it you have to download the old version, from my project, or from following ZIP file:
 [hagl.zip](https://github.com/user-attachments/files/21729362/hagl.zip)
+
+Also keep in mind that by default ST7735S is in vertical position, however Hagl library doesn't have this screen format - that's why whole programm is written as screen is in horizontal position and both X- and Y-acis are exchanged compare to ST7735S default configuration.
+
